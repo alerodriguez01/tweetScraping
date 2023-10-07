@@ -1,5 +1,5 @@
 # Extract tweets through web scraping
-This project extracts tweets by using the [Puppeteer](https://pptr.dev/) Node.js library and save them in *.csv* file. 
+This project extracts tweets by using the [Puppeteer](https://pptr.dev/) Node.js library and save them in *.csv* file. It was developed to get tweets for training a machine learning model (see [this project](https://github.com/FedericoPacheco/tp1-ic)).
 > Note: [Node.js](https://nodejs.org/es) is required.
 
 ## Run scraping

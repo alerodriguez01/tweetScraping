@@ -9,7 +9,7 @@ npm install
 ```
 Then, to run the script execute:
 ```bash
-node src/tweetScraping.js USERNAME PASSWORD "TWEET QUERY" MIN_TWEETS
+node . USERNAME PASSWORD "TWEET QUERY" MIN_TWEETS
 ```
 where:
 - `USERNAME` is the *twitter username* to log in,

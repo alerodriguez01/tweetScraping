@@ -21,7 +21,7 @@ where:
 
 For example, if you want to get tweets related to "*franco colapinto*":
 ```bash
-node src/tweetScraping.js elonmusk adminPass "franco colapinto" 100
+node . elonmusk adminPass "franco colapinto" 100
 ```
 A *tweets.csv* file will be created. It will look like this:
 Username | Datetime | Tweet
